@@ -9,7 +9,7 @@ O sistema operacional Marandu seria um sistema operacional compatível com Windo
 ### - O navegador, a inteligência artificial e o buscador Exploider:
 O navegador Exploider seria feito do zero, focado em privacidade, segurança e teria seu próprio buscador, o Exploider Search, além de vir integrado, com a inteligência artificial, Exploider Alpha, que faz a interpretação de textos, além de traduzí-los.
 
-### A linguagem Ardennes:
+### - A linguagem Ardennes:
 A linguagem de programação Ardennes, é uma linguagem de programação focada no multiplataforma, seu formato de arquivo seria o .milk, que seria interpretado pelo Catmilk, o .milk teria a vantagem de ser executado por um Firmware, sendo perfeito para programas comuns e sistemas operacionais. A linguagem Ardennes também possui o Vmm (Virtual Memory Manager), que geraria arquivos .vmm, com instruções para o Linker, gerenciar Memória Virtual.
 
 ### Porque não fiz esses projetos?
